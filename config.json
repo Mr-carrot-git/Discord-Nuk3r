@@ -1,0 +1,17 @@
+{
+  "raid_by": "YOUR_PSEUDO",
+
+  "prefix_bot": "YOUR_PREFIX",
+
+  "message_spam": "YOUR_MESSAGE",
+
+  "webhookurl": "YOUR_WEBHOOk",
+
+  "message_members": "MESSAGE_FOR_DM_ALL",
+
+  "serv_invite": "YOUR_SERV_INVITE",
+
+  "channel_name": "NAME_OF_CHANNEL_CREATE",
+
+  "token": "YOUR_TOKEN"
+}
